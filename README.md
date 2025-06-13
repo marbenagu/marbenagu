@@ -7,3 +7,8 @@
 :family **Casado y con hijos**
 
 ### Vias de contacto
+
+### :zap: Actividad Reciente
+<!--Actividad Inicio-->
+
+<!--Actividad Fin-->
