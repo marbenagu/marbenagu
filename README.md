@@ -9,6 +9,5 @@
 ### Vias de contacto
 
 ### :zap: Actividad Reciente
-<!--Actividad Inicio-->
-
-<!--Actividad Fin-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
